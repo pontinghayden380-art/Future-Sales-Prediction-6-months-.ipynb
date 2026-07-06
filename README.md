@@ -1,5 +1,12 @@
 # 🚀 Future Sales Prediction - 6 Months Forecast
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pontinghayden380-art/Future-Sales-Prediction-6-months-.ipynb/blob/main/Future-Sales-Prediction-6-months-.ipynb)
+
+**Author:** Ankit Jha  
+**Date:** 06/07/2026
+
+---
+
 ## 📌 Project Overview
 This project focuses on predicting future sales for Indian retail stores using the "Indian Store Dataset" containing over 100,000 transactions. We implemented and compared five forecasting models to forecast sales for the next 6 months (180 days).
 
@@ -18,11 +25,11 @@ This project focuses on predicting future sales for Indian retail stores using t
 - **Plotly** (Interactive Dashboard)
 
 ## 🧠 Models Implemented & Compared
-1. **Linear Regression**
-2. **Random Forest Regressor**
-3. **XGBoost Regressor**
-4. **LSTM (Long Short-Term Memory)**
-5. **Prophet (Time Series)**
+1.  **Linear Regression**
+2.  **Random Forest Regressor**
+3.  **XGBoost Regressor**
+4.  **LSTM (Long Short-Term Memory)**
+5.  **Prophet (Time Series)**
 
 ## 📈 Key Results
 | Model               | MAE        | RMSE       | R² Score   |
@@ -51,10 +58,10 @@ An interactive Plotly dashboard was created to visualize:
 - Seasonal patterns
 
 ## 🚀 How to Run This Project in Google Colab
-1. Click on the "Open in Colab" badge above.
-2. Run all cells sequentially.
-3. Upload the dataset when prompted.
-4. View the model comparison and future predictions.
+1.  Click on the **"Open In Colab"** badge above.
+2.  Run all cells sequentially.
+3.  Upload the dataset when prompted.
+4.  View the model comparison and future predictions.
 
 ## 📂 Repository Structure
 
@@ -62,19 +69,8 @@ An interactive Plotly dashboard was created to visualize:
 
 
 
-
-├── data/ (Dataset files)
-├── Future-Sales-Prediction-6-months-.ipynb (Main Colab Notebook)
-└── README.md
-
 ## 🔧 Future Improvements
 - Add external features (holidays, weather, promotions)
 - Collect more historical data
 - Try different aggregation levels (weekly instead of daily)
 - Feature engineering with product categories
-
-## 👨‍💻 Author
-**Ankit Jha**
-
-## 📅 Date
-**06/07/2026**
