@@ -1,6 +1,6 @@
 # 🚀 Future Sales Prediction - 6 Months Forecast
 
-[![Open In Colab][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pontinghayden380-art/Future-Sales-Prediction-6-months-.ipynb/blob/main/Future_Sales_Prediction(6_months).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pontinghayden380-art/Future-Sales-Prediction-6-months-.ipynb/blob/main/Future_Sales_Prediction(6_months).ipynb)
 
 **Author:** Ankit Jha  
 **Date:** 06/07/2026
